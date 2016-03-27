@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: afa918a7c40284e9787ae12a3aa9794e
+timeCreated: 1459090972
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 037836347a7d0a942da271eba9ac1c44
+  longitude: 135.759970644994
+  latitude: 34.981358600673
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -18.621492, y: 1.2930331, z: 22.301867}
+      lookAt: {x: 0.38210633, y: 14.889806, z: -14.395353}
+      up: {x: -0.1437176, y: 0.949907, z: 0.27752832}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Component#1 10
+    100006: Component#1 11
+    100008: Component#1 12
+    100010: Component#1 13
+    100012: Component#1 2
+    100014: Component#1 3
+    100016: Component#1 4
+    100018: Component#1 5
+    100020: Component#1 6
+    100022: Component#1 7
+    100024: Component#1 8
+    100026: Component#1 9
+    100028: door
+    100030: door 1
+    100032: door 10
+    100034: door 11
+    100036: door 12
+    100038: door 13
+    100040: door 14
+    100042: door 15
+    100044: door 16
+    100046: door 17
+    100048: door 18
+    100050: door 19
+    100052: door 2
+    100054: door 3
+    100056: door 4
+    100058: door 5
+    100060: door 6
+    100062: door 7
+    100064: door 8
+    100066: door 9
+    100068: Door_Glass_Automatic_15-0x7-81976-10-29 21:35:12 -0400
+    100070: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400
+    100072: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 1
+    100074: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 2
+    100076: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 3
+    100078: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 4
+    100080: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 5
+    100082: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 6
+    100084: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 7
+    100086: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 8
+    100088: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 9
+    100090: Google Earth Snapshot
+    100092: Group 116
+    100094: Group 138
+    100096: Group 142
+    100098: Group 32
+    100100: Group 36
+    100102: Group 40
+    100104: half
+    100106: half 1
+    100108: panel
+    100110: panel 1
+    100112: panel 2
+    100114: panel 3
+    100116: SEIKI
+    100118: //RootNode
+    100120: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400
+    100122: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 1
+    100124: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 2
+    100126: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 3
+    100128: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 4
+    100130: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 5
+    100132: Window_Slider_Mullions_391976-10-30 19:56:36 -0400
+    100134: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 1
+    100136: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 2
+    100138: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 3
+    100140: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 4
+    100142: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 5
+    100144: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 6
+    100146: "\u65C5\u9928#2"
+    100148: "\u6674\u8F1D#1"
+    400000: Component#1
+    400002: Component#1 1
+    400004: Component#1 10
+    400006: Component#1 11
+    400008: Component#1 12
+    400010: Component#1 13
+    400012: Component#1 2
+    400014: Component#1 3
+    400016: Component#1 4
+    400018: Component#1 5
+    400020: Component#1 6
+    400022: Component#1 7
+    400024: Component#1 8
+    400026: Component#1 9
+    400028: door
+    400030: door 1
+    400032: door 10
+    400034: door 11
+    400036: door 12
+    400038: door 13
+    400040: door 14
+    400042: door 15
+    400044: door 16
+    400046: door 17
+    400048: door 18
+    400050: door 19
+    400052: door 2
+    400054: door 3
+    400056: door 4
+    400058: door 5
+    400060: door 6
+    400062: door 7
+    400064: door 8
+    400066: door 9
+    400068: Door_Glass_Automatic_15-0x7-81976-10-29 21:35:12 -0400
+    400070: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400
+    400072: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 1
+    400074: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 2
+    400076: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 3
+    400078: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 4
+    400080: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 5
+    400082: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 6
+    400084: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 7
+    400086: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 8
+    400088: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 9
+    400090: Google Earth Snapshot
+    400092: Group 116
+    400094: Group 138
+    400096: Group 142
+    400098: Group 32
+    400100: Group 36
+    400102: Group 40
+    400104: half
+    400106: half 1
+    400108: panel
+    400110: panel 1
+    400112: panel 2
+    400114: panel 3
+    400116: SEIKI
+    400118: //RootNode
+    400120: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400
+    400122: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 1
+    400124: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 2
+    400126: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 3
+    400128: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 4
+    400130: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 5
+    400132: Window_Slider_Mullions_391976-10-30 19:56:36 -0400
+    400134: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 1
+    400136: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 2
+    400138: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 3
+    400140: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 4
+    400142: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 5
+    400144: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 6
+    400146: "\u65C5\u9928#2"
+    400148: "\u6674\u8F1D#1"
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#1 10
+    2300006: Component#1 11
+    2300008: Component#1 12
+    2300010: Component#1 13
+    2300012: Component#1 2
+    2300014: Component#1 3
+    2300016: Component#1 4
+    2300018: Component#1 5
+    2300020: Component#1 6
+    2300022: Component#1 7
+    2300024: Component#1 8
+    2300026: Component#1 9
+    2300028: door
+    2300030: door 1
+    2300032: door 10
+    2300034: door 11
+    2300036: door 12
+    2300038: door 13
+    2300040: door 14
+    2300042: door 15
+    2300044: door 16
+    2300046: door 17
+    2300048: door 18
+    2300050: door 19
+    2300052: door 2
+    2300054: door 3
+    2300056: door 4
+    2300058: door 5
+    2300060: door 6
+    2300062: door 7
+    2300064: door 8
+    2300066: door 9
+    2300068: Door_Glass_Automatic_15-0x7-81976-10-29 21:35:12 -0400
+    2300070: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400
+    2300072: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 1
+    2300074: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 2
+    2300076: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 3
+    2300078: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 4
+    2300080: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 5
+    2300082: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 6
+    2300084: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 7
+    2300086: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 8
+    2300088: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 9
+    2300090: Google Earth Snapshot
+    2300092: Group 116
+    2300094: Group 138
+    2300096: Group 142
+    2300098: Group 32
+    2300100: Group 36
+    2300102: Group 40
+    2300104: panel
+    2300106: panel 1
+    2300108: panel 2
+    2300110: panel 3
+    2300112: SEIKI
+    2300114: //RootNode
+    2300116: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400
+    2300118: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 1
+    2300120: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 2
+    2300122: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 3
+    2300124: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 4
+    2300126: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 5
+    2300128: Window_Slider_Mullions_391976-10-30 19:56:36 -0400
+    2300130: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 1
+    2300132: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 2
+    2300134: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 3
+    2300136: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 4
+    2300138: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 5
+    2300140: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 6
+    2300142: "\u65C5\u9928#2"
+    2300144: "\u6674\u8F1D#1"
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#1 10
+    3300006: Component#1 11
+    3300008: Component#1 12
+    3300010: Component#1 13
+    3300012: Component#1 2
+    3300014: Component#1 3
+    3300016: Component#1 4
+    3300018: Component#1 5
+    3300020: Component#1 6
+    3300022: Component#1 7
+    3300024: Component#1 8
+    3300026: Component#1 9
+    3300028: door
+    3300030: door 1
+    3300032: door 10
+    3300034: door 11
+    3300036: door 12
+    3300038: door 13
+    3300040: door 14
+    3300042: door 15
+    3300044: door 16
+    3300046: door 17
+    3300048: door 18
+    3300050: door 19
+    3300052: door 2
+    3300054: door 3
+    3300056: door 4
+    3300058: door 5
+    3300060: door 6
+    3300062: door 7
+    3300064: door 8
+    3300066: door 9
+    3300068: Door_Glass_Automatic_15-0x7-81976-10-29 21:35:12 -0400
+    3300070: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400
+    3300072: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 1
+    3300074: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 2
+    3300076: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 3
+    3300078: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 4
+    3300080: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 5
+    3300082: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 6
+    3300084: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 7
+    3300086: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 8
+    3300088: Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400 9
+    3300090: Google Earth Snapshot
+    3300092: Group 116
+    3300094: Group 138
+    3300096: Group 142
+    3300098: Group 32
+    3300100: Group 36
+    3300102: Group 40
+    3300104: panel
+    3300106: panel 1
+    3300108: panel 2
+    3300110: panel 3
+    3300112: SEIKI
+    3300114: //RootNode
+    3300116: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400
+    3300118: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 1
+    3300120: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 2
+    3300122: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 3
+    3300124: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 4
+    3300126: Window_Casement_Alum_17x361976-10-29 21:41:59 -0400 5
+    3300128: Window_Slider_Mullions_391976-10-30 19:56:36 -0400
+    3300130: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 1
+    3300132: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 2
+    3300134: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 3
+    3300136: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 4
+    3300138: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 5
+    3300140: Window_Slider_Mullions_391976-10-30 19:56:36 -0400 6
+    3300142: "\u65C5\u9928#2"
+    3300144: "\u6674\u8F1D#1"
+    4300000: Mesh Station+Ryokan+SEIKI
+    4300002: Mesh Google Earth Snapshot
+    4300004: Mesh Door_Glass_Automatic_15-0x7-81976-10-29 21:35:12 -0400
+    4300006: Mesh panel
+    4300008: Mesh Door_Glass_Sliding_6-01976-10-29 21:38:51 -0400
+    4300010: Mesh door
+    4300012: Mesh Window_Casement_Alum_17x361976-10-29 21:41:59 -0400
+    4300014: Mesh Group 32
+    4300016: Mesh Window_Slider_Mullions_391976-10-30 19:56:36 -0400
+    4300018: Mesh Component#1
+    4300020: Mesh Window_Casement_Alum_17x361976-10-29 21:41:59 -0400
+    4300022: Mesh Group 142
+    4300024: "Mesh \u6674\u8F1D#1"
+    4300026: "Mesh \u65C5\u9928#2"
+    4300028: Mesh SEIKI
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
